@@ -1,0 +1,52 @@
+.ttl_PT
+{
+	text-align:center;
+}
+.head_PT
+{
+font-family: '微软雅黑', 'Microsoft YaHei', '宋体', 'MicrosoftJhengHei', '华文细黑', 'STHeiti', 'MingLiu';
+padding: 0;
+text-align:center;
+border: 0;
+width: 65%;
+margin: 0 auto;
+}
+
+.form_PT
+{
+font-family: '微软雅黑', 'Microsoft YaHei', '宋体', 'MicrosoftJhengHei', '华文细黑', 'STHeiti', 'MingLiu';
+margin: 0;
+text-align:center;
+width: 100%;
+height: 35px;
+margin-bottom: 17px;
+overflow: hidden;
+border: 2px solid #CCCCCC;
+border-radius: 25px;
+padding: 2px;
+}
+
+
+.butt_PT
+{
+font-family: '微软雅黑', 'Microsoft YaHei', '宋体', 'MicrosoftJhengHei', '华文细黑', 'STHeiti', 'MingLiu';
+margin: 0;
+padding: 0;
+border: 0;
+}
+
+.input_PT
+{
+outline: none;
+width: 100%;
+height: 35px;
+line-height: 35px;
+font-size: 18px;
+padding-left: 20px;
+border: none;
+background: none;
+}
+
+
+
+
